@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia, atuando como analista de redes de computadores com experiência em configuração, instalação, monitoramento e troubleshooting de redes. Estou sempre em busca de aprimorar meus conhecimentos em defesa cibernética, automação de ambientes (DevOps) e soluções em cloud e back-end.
+Sou apaixonado por tecnologia, atuo como analista de redes de computadores em um data center. Estou sempre em busca de aprimorar meus conhecimentos em defesa cibernética, automação de ambientes (DevOps) e soluções em cloud e back-end.
 
 ---
 
@@ -16,7 +16,6 @@ Sou apaixonado por tecnologia, atuando como analista de redes de computadores co
 
 - **Fortinet** (firewalls e soluções de segurança)
 - **AWS** (serviços de nuvem e infraestrutura)
-- **Bash** (automação e scripts de shell)
 - **Linux** (administração e operação de sistemas)
 
 ---
