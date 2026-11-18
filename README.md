@@ -2,7 +2,7 @@
 
 🎯 **Analista de Redes de Computadores**  
 🔒 Estudante de Defesa Cibernética  
-☁️ Entusiasta de DevOps, Cloud e Desenvolvimento Back-end
+☁️ Entusiasta de DevOps, Cloud 
 
 ---
 
